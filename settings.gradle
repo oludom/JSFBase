@@ -1,0 +1,3 @@
+rootProject.name = 'JSFBase'
+include ':webapp', ':components'
+
